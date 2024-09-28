@@ -1,4 +1,4 @@
-#!/bin/bash
+o#!/bin/bash
 
 pip install -r requirements.txt
 
@@ -15,4 +15,4 @@ echo ' We Are Dark army '
 apt install python3
 clear
 
-python3 d-army.py
+echo python3 d-army.py

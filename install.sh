@@ -1,6 +1,6 @@
-o#!/bin/bash
+#!/bin/bash
 
-pip install -r requirements.txt
+pip install -r requirements.txt --break-system-packages
 
 if [ "$EUID" -ne 0 ]; then
     echo "Please run this script as root (use sudo)."

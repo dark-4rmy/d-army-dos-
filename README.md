@@ -19,8 +19,7 @@ cd d-army-dos-
 pip instal -r requirements.txt
 python3 d-army.py
 
-
-
+```
 
 ## Installation Linux
 

@@ -9,7 +9,7 @@ d-army is a powerful tool designed for performing Denial of Service (DoS) attack
 
 To install for Termux  run:
 
-bash
+```bash
 pkg update
 pkg install python3
 pkg install pip
